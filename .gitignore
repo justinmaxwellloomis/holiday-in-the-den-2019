@@ -1,0 +1,8 @@
+# pygbag browser build output
+build/
+*.apk
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
